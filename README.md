@@ -3,7 +3,7 @@
 
 A book on PHP 8 that will make a beginner to a professional developer in a couple of months.
 
-## [Get the book at @Leanpub -](https://leanpub.com/thecompletedphp8bootcampbeginnertopro)
+## [Get the book at @Leanpub - The Completed PHP 8 Bootcamp](https://leanpub.com/thecompletedphp8bootcampbeginnertopro)
 
 
 
