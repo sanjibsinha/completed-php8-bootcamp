@@ -1,3 +1,4 @@
+
 # The Completed PHP 8 Bootcamp 
 
 A book on PHP 8 that will make a beginner to a professional developer in a couple of months.
@@ -55,3 +56,5 @@ A few resources to get you started if this is your first WordPress project:
 
 - [Download the latest WordPres](https://wordpress.org)
 - [Then start building a WordPress sample app like this:](https://sanjibsinha.com)
+# completed-php8-bootcamp
+
